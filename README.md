@@ -1,3 +1,28 @@
+# ShineLauncher
+
+<img src="https://img.shields.io/github/v/release/Eqwath/ShineLauncher?style=flat-square" alt="Версия"> <img src="https://img.shields.io/github/downloads/Eqwath/ShineLauncher/total?style=flat-square" alt="Загрузки">
+
+##  Установка
+
+### Вариант 1: Через командную строку (Windows)
+
+Скопируйте команду ниже и вставьте в PowerShell или окно "Выполнить" (Win+R)  
+*(Лаунчер скачается на рабочий стол)*
+
+```powershell
+powershell -command "irm 'https://github.com/Eqwath/ShineLauncher/releases/latest/download/win-x64-ShineLauncher.exe' -OutFile \"%USERPROFILE%\Desktop\ShineLauncher.exe\"; start \"%USERPROFILE%\Desktop\ShineLauncher.exe\""
+```
+### Вариант 2: Скачать вручную
+
+1. Перейдите на [страницу релизов](https://github.com/Eqwath/ShineLauncher/releases/latest)
+2. Выберите версию для вашей системы:
+   - **Windows** (64-bit): `win-x64-ShineLauncher.exe`
+   - **Linux** (64-bit): `linux-x64-ShineLauncher`
+   - **macOS**:
+     - Для процессоров Intel: `osx-x64-ShineLauncher`
+     - Для Apple Silicon (M1/M2): `osx-arm64-ShineLauncher`
+3. Запустите скачанный файл
+
 ## Системные требования SHINELAUNCHER
 
 OC: Windows 8-11  
