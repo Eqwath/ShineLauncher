@@ -1,18 +1,19 @@
-# ShineLauncher
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1zxr5NmYLrCp7LKfCJDDSEk8klpTuaEQC" alt="ShineLauncher Logo">
+</p>
 
-<img src="https://img.shields.io/github/v/release/Eqwath/ShineLauncher?style=flat-square" alt="Версия"> <img src="https://img.shields.io/github/downloads/Eqwath/ShineLauncher/total?style=flat-square" alt="Загрузки">
+# ✨ ShineLauncher
 
-##  Установка
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/Eqwath/ShineLauncher?style=for-the-badge&color=blue" alt="Версия">
+  <img src="https://img.shields.io/github/downloads/Eqwath/ShineLauncher/total?style=for-the-badge&color=green" alt="Загрузки">
+</p>
 
-### Вариант 1: Через командную строку (Windows)
+---
 
-Скопируйте команду ниже и вставьте в PowerShell или окно "Выполнить" (Win+R)  
-*(Лаунчер скачается на рабочий стол)*
+## 📥 Установка
 
-```powershell
-powershell -command "irm 'https://github.com/Eqwath/ShineLauncher/releases/latest/download/win-x64-ShineLauncher.exe' -OutFile \"%USERPROFILE%\Desktop\ShineLauncher.exe\"; start \"%USERPROFILE%\Desktop\ShineLauncher.exe\""
-```
-### Вариант 2: Скачать вручную
+### 🔹 Вариант 1: Скачать вручную
 
 1. Перейдите на [страницу релизов](https://github.com/Eqwath/ShineLauncher/releases/latest)
 2. Выберите версию для вашей системы:
@@ -23,12 +24,36 @@ powershell -command "irm 'https://github.com/Eqwath/ShineLauncher/releases/lates
      - Для Apple Silicon (M1/M2): `osx-arm64-ShineLauncher`
 3. Запустите скачанный файл
 
-## Системные требования SHINELAUNCHER
+### 🔹 Вариант 2: Через командную строку (Windows)
+
+Скопируйте команду ниже и вставьте в PowerShell или окно "Выполнить" (Win+R)  
+*(Лаунчер скачается на рабочий стол)*
+
+```powershell
+powershell -command "irm 'https://github.com/Eqwath/ShineLauncher/releases/latest/download/win-x64-ShineLauncher.exe' -OutFile \"%USERPROFILE%\Desktop\ShineLauncher.exe\"; start \"%USERPROFILE%\Desktop\ShineLauncher.exe\""
+```
+
+## 🔧 Системные требования SHINELAUNCHER
 
 OC: Windows 8-11  
 Место на диске: 2 ГБ  
 
-## Системные требования SMP
+## 🎮 Системные требования CLASSIC
+
+### Минимальные:
+
+Место на диске: 10 ГБ  
+Оперативная память: 8 ГБ  
+Видеокарта: GeForce GTX 750 Ti / Radeon R9 270  
+Процессор: Intel Core i3-4130, Core i5-2400 / AMD FX-6300, Ryzen 3 1200  
+
+### Рекомендованные:
+
+#### ⚠ Зависят от вашей модификации игры ⚠ 
+Если вы играете на чистой версии Minecraft, рекомендуемые требования те же, что и минимальные.  
+Если устанавливаете моды — ориентируйтесь на их системные требования или берите характеристики не ниже рекомендованных для SMP.
+
+## 🌍 Системные требования SMP
 
 ### Минимальные:
 
