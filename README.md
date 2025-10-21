@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1zxr5NmYLrCp7LKfCJDDSEk8klpTuaEQC" alt="ShineLauncher Logo">
+  <img src="https://drive.google.com/uc?id=1yRBoKQo5ORrsrai0aLzeoshvOqfPPl8F" alt="ShineLauncher Logo">
 </p>
 
 # ✨ ShineLauncher
@@ -35,7 +35,7 @@ powershell -command "irm 'https://github.com/Eqwath/ShineLauncher/releases/lates
 
 ## 🔧 Системные требования SHINELAUNCHER
 
-OC: Windows 8-11  
+OC: Windows 10-11 (Стабильнее на Windows 11)  
 Место на диске: 2 ГБ  
 
 ## 🎮 Системные требования CLASSIC
